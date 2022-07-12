@@ -1,0 +1,4 @@
+- 👋 Hi Reader! I’m @MarjiHamid
+- 👀 I’m a student "22yo" from Department of Electrical Engineering - Faculty of Sciences and Technologies of Fez, Morocco. 
+- 🌱 I'm interesting in Embedded Systems and passionate about coding with C/C++, Rust and Java with knowledge of processors,electronic equipment, and computer hardware & software, including applications and programming.
+- 💞️ Besides, I'm dedicated to staying up-to-date on new techniques and procedures related to Real-time embedded systems concepts (RT Mission-Critcal Systems Design) and Iot interface design. Moreover, I am very into the research field, develop devices and software.
